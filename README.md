@@ -1,5 +1,7 @@
 # GPT_for_tweets
 
+The “BWS generation .ipynb” is a jupyter notebook showing code and outputs for simulations of the BWS algorithm presented in the research paper. 
+
 The jupyter notebook “congress and twitter merging.ipynb” contains code for replicating the datasets used for key word matching and accounts from which tweets are scraped ("congress117_condensed.csv", "all twitter profiles.csv") which are also available. 
 
 4 files are needed in advance before using any of the code in “congress and twitter merging.ipynb”, which I have also uploaded: 
@@ -12,4 +14,3 @@ The jupyter notebook “congress and twitter merging.ipynb” contains code for 
 
 "accounts.xlsx": Data used by Mills (https://towardsdatascience.com/take-it-to-twitter-sentiment-analysis-of-congressional-twitter-in-r-ee206a5b05bc)
 
-The “BWS Generation.ipynb” is a jupyter notebook showing code and outputs for simulations of the BWS algorithm presented in the research paper. 
