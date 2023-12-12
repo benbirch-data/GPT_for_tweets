@@ -1,6 +1,6 @@
 # GPT_for_tweets
 
-The “BWS generation .ipynb” is a jupyter notebook showing code and outputs for simulations of the BWS algorithm presented in the research paper. 
+The “BWS generation .ipynb” is a jupyter notebook showing code and outputs for simulations of the BWS algorithm presented in the research paper, 'GPT_research_paper'. 
 
 The jupyter notebook “congress and twitter merging.ipynb” contains code for replicating the datasets used for key word matching and accounts from which tweets are scraped ("congress117_condensed.csv", "all twitter profiles.csv") which are also available. 
 
